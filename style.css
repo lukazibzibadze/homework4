@@ -8,7 +8,6 @@ a{
 }
 ul{
    list-style: none;
-   list-style: -webkit match parent;
    font: Helvetica Neue;
 }
 .logo{
@@ -34,4 +33,30 @@ header a{
 }
 .navbar li{
    margin-bottom: 18px;
+}
+.mtavari{
+   width: 1195px;
+   height: 600px;
+   border-radius: 15px;
+}
+h2{
+   text-align:center;
+   font-size: 28px;
+   color: #171717;
+}
+section{
+   width: 1000px;
+   margin: -140px auto;
+}
+.smallones{
+   width: 219px;
+   height: 219px;
+}
+p{
+   width: 951px;
+   height: 151px;
+   color:#171717;
+   padding-left: 480px;
+   margin-top: 160px;
+   text-align: left ;
 }
