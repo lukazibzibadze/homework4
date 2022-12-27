@@ -1,0 +1,37 @@
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+a{
+   text-decoration: none;
+}
+ul{
+   list-style: none;
+   list-style: -webkit match parent;
+   font: Helvetica Neue;
+}
+.logo{
+   width: 115px;
+   height: 65px;
+}
+header{
+   background-color: rgba(0, 32, 244, 1);
+   width: 1920px;
+   height: 388px;
+   padding: 70px;
+
+}
+header a{
+   color: white;
+}
+.contact{
+   background-color: #FFFFFF;
+   color: black;
+   border-radius: 28px;
+   font:Helvetica Neue bold;
+   padding: 10px 19px;
+}
+.navbar li{
+   margin-bottom: 18px;
+}
